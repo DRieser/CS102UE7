@@ -1,5 +1,5 @@
 # Lorem ipsum
-==============
+
 
 1. Pellentesque habitant morbi tristique
    * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
@@ -10,7 +10,7 @@
    * Aliquam tincidunt mauris eu risus.
    * Vestibulum auctor dapibus neque.
 
-===============
+
 
 
 | Lorem | Dolor | Dapibus |
